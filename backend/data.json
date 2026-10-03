@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1791022579699,
+    "title": "Demo test",
+    "content": "Demo test cho fullstack blog",
+    "author": "Hong Lan",
+    "createdAt": "2026-10-03T10:16:19.699Z"
+  },
+  {
+    "id": 1,
+    "title": "Bài viết đầu tiên",
+    "content": "Nội dung bài 1: Tìm hiểu về Express và Next.js",
+    "author": "Admin",
+    "createdAt": "2026-10-01T08:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Hướng dẫn NextJS App Router",
+    "content": "Nội dung bài 2: Tích hợp Tailwind và tối ưu trải nghiệm người dùng",
+    "author": "Admin",
+    "createdAt": "2026-10-02T09:30:00.000Z"
+  }
+]
